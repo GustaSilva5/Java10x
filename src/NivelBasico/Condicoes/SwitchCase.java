@@ -1,6 +1,5 @@
-package Condicoes;
+package NivelBasico.Condicoes;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class SwitchCase {

@@ -1,9 +1,9 @@
-package Condicoes;
+package NivelBasico.Condicoes;
 
 public class IfEElse {
     public static void main(String[] args) {
         /*
-         * If e Else - Condicoes
+         * If e Else - NivelBasico.TiposDeDados.Condicoes
          * Objetivo: Passar o ninja de nivel de acordo com o numero de missoes
          * */
         String nome = "Naruto Uzumaki";
